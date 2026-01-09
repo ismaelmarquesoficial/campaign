@@ -1,0 +1,5 @@
+{
+  "name": "Campaign Dispatcher Pro",
+  "description": "A professional tool to import CSV contacts and dispatch webhook events sequentially with real-time status tracking.",
+  "requestFramePermissions": []
+}
